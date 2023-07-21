@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSVMIR</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_key" translatable="false">AIzaSyCO0TuVwaS3atut0jGnidPN9ymDHnjs89A</string>
+</resources>
